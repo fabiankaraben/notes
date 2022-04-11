@@ -1,5 +1,22 @@
 # Go Cheat Sheet
 
+- [Go Cheat Sheet](#go-cheat-sheet)
+  - [Build-in Types](#build-in-types)
+  - [Variables](#variables)
+  - [Constants](#constants)
+  - [Loops](#loops)
+  - [Switch](#switch)
+  - [Arrays](#arrays)
+  - [Slices](#slices)
+  - [Maps](#maps)
+  - [Range](#range)
+  - [Pointers](#pointers)
+  - [Structs](#structs)
+  - [Interfaces](#interfaces)
+  - [Functions](#functions)
+  - [Goroutines](#goroutines)
+  - [Channels](#channels)
+
 ## Build-in Types
 
 - `bool`, `string`
